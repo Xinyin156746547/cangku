@@ -1,4 +1,4 @@
-package cn.DoO.Utils;
+package com.rj.bd.utils;
 
 import java.util.Arrays;
 import java.util.Collections;
